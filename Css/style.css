@@ -20,11 +20,29 @@
     animation: pipe-animation 2s infinite linear;
 }
 
-@keyframes pipe-animation{ 
+.mario {
+    width: 150px;
+    position: absolute;
+    bottom: 0;
+}
+
+@keyframes pipe-animation{ /*Animação do cano*/
     from {
         right: -80px;
     }
     to {
         right: 100%;
+    }
+}
+
+@keyframes jump { /*Animação do Mario*/
+    0%{
+        bottom: 0;
+    }
+    50%{
+         bottom:180px;
+    }
+    100%{
+        bottom: 0;
     }
 }
