@@ -22,6 +22,7 @@ A aplicação consiste de game web, onde o usuario deve desviar dos obstaculos q
 
 # Autor
 
-Arthur Ferreira da Silva Duarte
-https://www.linkedin.com/in/wmazoni
+Arthur Ferreira S. Duarte
+
+https://www.linkedin.com/in/arthur-duarte-92931b201/
 
